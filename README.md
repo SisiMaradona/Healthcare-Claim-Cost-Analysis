@@ -42,7 +42,7 @@ This project analyzes healthcare claims data to identify:
 - **Inpatient claims = $1.09M paid (70.45% of total spend)**, average **$11K per claim**.  
 - **Emergency claims = $294K paid (18.99%)**, average **$3.3K per claim**.  
 - **Outpatient claims = $130k paid**, average **$1.2k per claim**.
-- **Lab claims = $30k paid**, average **$308 per claim**.
+- **Lab claims = $20k paid**, average **$308 per claim**.
 - **Pharmacy claims =$11k paid**, average **141 per claim**.
 - **Outpatient, Lab, Pharmacy combined = ~11% of total spend**.  
 ➡️ Inpatient + Emergency ≈ **89% of total spending**.
