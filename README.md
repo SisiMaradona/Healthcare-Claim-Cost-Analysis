@@ -124,10 +124,10 @@ Paid ratio by claim type:
 ### 🖼️ Dashboard Screenshots
 
 #### Overview
-![Overview](screenshots/overview.png)
+![Overview](main/Overview.png)
 
 #### High-Cost Members
-![Members](screenshots/members.png)
+![Members](main/Members.png)
 
 ## 🛠 Tool Used
 
