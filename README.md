@@ -1,4 +1,4 @@
-# Healthcare-Claim-
+# Healthcare-Claim-Cost-Analysis 
 This project analyzes healthcare claims to uncover the most expensive claim types, top-cost procedures (CPT codes) and diagnoses (ICD codes), high-cost members, and gaps between billed and paid amounts. The insights help drive cost control, optimize resource allocation, and support data-driven decision-making in healthcare.
 
 # 🏥 Healthcare Claims Cost & Utilization Analysis
@@ -120,6 +120,14 @@ Paid ratio by claim type:
 ➡️ **Inpatient and Emergency have the largest payment gaps**. Lab and Pharmacy show stronger cost control.
 
 ---
+
+### 🖼️ Dashboard Screenshots
+
+#### Overview
+![Overview](screenshots/overview.png)
+
+#### High-Cost Members
+![Members](screenshots/members.png)
 
 ## 🛠 Tool Used
 
